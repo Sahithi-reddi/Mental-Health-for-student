@@ -1,9 +1,16 @@
+/* General Body Styling */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
   background-color: #f4f6f9;
 }
 
+/* App Container */
+.App {
+  text-align: center;
+}
+
+/* Sidebar Styling */
 .sidebar {
   width: 200px;
   height: 100vh;
@@ -23,11 +30,13 @@ body {
   background-color: #1abc9c;
 }
 
+/* Main Content Area */
 .main {
   margin-left: 220px;
   padding: 20px;
 }
 
+/* Card Styling */
 .card {
   background: white;
   padding: 15px;
